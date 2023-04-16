@@ -19,3 +19,15 @@
 ## Схема БД
 
 ![Схема БД](https://raw.githubusercontent.com/AlexanderKomkov/php-libary-example/main/db_schema/schema_db_lib.png)
+
+## Web
+
+![Книги](https://raw.githubusercontent.com/AlexanderKomkov/php-libary-example/main/screens/web.png)
+
+![Редактирование книги](https://raw.githubusercontent.com/AlexanderKomkov/php-libary-example/main/screens/web2.png)
+
+![Редактирование пользователя](https://raw.githubusercontent.com/AlexanderKomkov/php-libary-example/main/screens/web3.png)
+
+## Postman
+
+![Редактирование пользователя](https://raw.githubusercontent.com/AlexanderKomkov/php-libary-example/main/screens/postman.png)
