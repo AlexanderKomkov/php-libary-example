@@ -1,7 +1,7 @@
 
 # Libary Example
 
-Реализцая небольшого CRUD для библитоеки, без использования фреймворков и готовых пакетов, с использованием ООП
+Реализцая небольшого CRUD для библитоеки, без использования фреймворков и готовых пакетов, с использованием ООП, СУБД PostgreSQL
 
 ## Установка и запуск локально
 
@@ -15,3 +15,7 @@
 
 1. Web `routes/web.php`
 2. Api `reotes/api.php`
+
+## Схема БД
+
+![Схема БД](https://raw.githubusercontent.com/AlexanderKomkov/php-libary-example/main/db_schema/schema_db_lib.png)
