@@ -81,7 +81,7 @@
 
         <?php endif; ?>
 
-        <a href="#" class="mt-5 btn btn-secondary">View on GitHub</a>
+        <a href="https://github.com/AlexanderKomkov/php-libary-example" target="_blank" class="mt-5 btn btn-secondary">View on GitHub</a>
     </div>
 </div>
 
